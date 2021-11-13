@@ -14,6 +14,6 @@ spec:
       spec:
         containers:
           - name: web
-            image: pbeniwal/website
+            image: pbeniwal/website:v1
             ports:
               - containerPort: 80
