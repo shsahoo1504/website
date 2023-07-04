@@ -14,6 +14,6 @@ spec:
       spec:
         containers:
           - name: web
-            image: pbeniwal/website:v1
+            image: ramkrishnatest/simplilearn-0107
             ports:
               - containerPort: 80
